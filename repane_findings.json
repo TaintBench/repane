@@ -36,7 +36,8 @@
         "interComponentCommunication": true
       },
       "ID": 1,
-      "description": "This malicious flows installs an APK that is shipped with the App."
+      "description": "This malicious flows installs an APK that is shipped with the App.",
+      "isNegative": false
     }
   ]
 }
